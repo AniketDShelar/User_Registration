@@ -45,7 +45,7 @@ public class UserRegistration {
             System.out.println(true);
         }else{
             System.out.println(false);
-            System.out.println("Enter Email ID in valid format");
+            System.out.println("Enter Email ID in valid format ");
         }
     }
 }
